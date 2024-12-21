@@ -1,5 +1,5 @@
-- 👋 Hi, I’m sirine amiche am a full stack developer with 3 years of experience in web and mobile development (backend and frontend)
-- 👀 I’m interested in web and mobile development with Angular and .netCore and IOnic.
+- 👋 Hi, I’m sirine amiche am a full stack developer with 5 years of experience in web development (backend and frontend)
+- 👀 I’m interested in web development with Angular and .NET
 - 🌱 I’m currently learning the web design and project management skills and others...
 - 💞️ I’m looking to collaborate on others experiences
 - 📫 You can reach me by the mail : sirinedevworld@gmail.com
